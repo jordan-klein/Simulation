@@ -11,8 +11,6 @@ library(ggridges)
 library(GGally)
 ```
 
-## Problem 2
-
 Simulation setup  
 
 ```{r 2sim_setup}
